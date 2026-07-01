@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma UI 导出"
+  short_description: "将UI设计图还原为 Figma，或导出 HTML 与 .fig 文件"
+  default_prompt: "使用 $figma-ui-export 将 UI 设计图还原为可编辑 Figma，或从 Figma 导出 HTML/CSS/assets、.fig 交付文件。"
